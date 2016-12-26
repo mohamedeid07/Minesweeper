@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1482770800 source:c:\users\shiko pc\desktop\minesweeper ea\minesweeperea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	<string.h>
+	"funcF.h"
+
+1482770800 c:\users\shiko pc\desktop\minesweeper ea\minesweeperea\funcf.h
+
+1482781762 source:c:\users\shiko pc\desktop\minesweeper ea\funcf.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	<string.h>
+	"funcF.h"
+
+1482781758 c:\users\shiko pc\desktop\minesweeper ea\funcf.h
+
+1482781762 source:c:\users\asus\documents\code\minesweeper ea\funcf.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	<string.h>
+	"funcF.h"
+
+1482781758 c:\users\asus\documents\code\minesweeper ea\funcf.h
+
+1482782322 source:c:\users\asus\documents\code\minesweeper ea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	<string.h>
+	"funcF.h"
+
